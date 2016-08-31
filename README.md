@@ -1,4 +1,5 @@
-# Icons
+Icons
+=====
 
 #### Collection of app icons
 
