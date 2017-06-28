@@ -3,7 +3,7 @@ Icons
 
 #### Collection of app icons
 
-=====
+****
 
 ## LICENSE
 
